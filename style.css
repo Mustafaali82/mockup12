@@ -1,69 +1,114 @@
-*{
-    padding: 0px;
-    margin: 0px;
+* {
+  padding: 0px;
+  margin: 0px;
 }
-.navbar{
-background-color: blue;
-height: 37rem;
+.navbar {
+  background-color: blue;
+  height: 37rem;
 }
-img{
-    margin-top: 40px;
-    margin-left: 60px;
+img {
+  margin-top: 40px;
+  margin-left: 60px;
 }
-a{
-    list-style-type: none;
-    text-decoration: none;
-    margin-left: 20px;
-    color: white;
+a {
+  list-style-type: none;
+  text-decoration: none;
+  margin-left: 20px;
+  color: white;
 }
-.r{
-    display: flex;
-    justify-content: flex-end;
-    margin-top: -20px;
-    margin-right: 20px;
+.r {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
+  margin-right: 20px;
 }
-.e{
-    display: flex;
-    justify-content: flex-end;
-    margin-top: -20px;
-    margin-right: 150px;
+.e {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
+  margin-right: 150px;
 }
-.asd{
-    background-color: wheat;
-    height: 50rem;
+.section {
+  background-color: wheat;
+  height: 50rem;
 }
 button {
-    height: 40px;
-    background-color: blue;
-    color: white;
-    cursor: pointer;
-    outline: none;
-    border: none;
-    padding: 0 2em 0 2em;
-    margin-top: 50px;
-    margin-left: 100px;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  padding: 0 2em 0 2em;
+  margin-top: 50px;
+  margin-left: 100px;
 }
-.footer{
-    background-color: black;
-    height: 10rem;
+.footer {
+  background-color: black;
+  height: 10rem;
 }
 .button {
-    height: 40px;
-    background-color: blue;
-    color: white;
-    cursor: pointer;
-    outline: none;
-    border: none;
-    padding: 0 2em 0 2em;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  padding: 0 2em 0 2em;
   margin-top: 50px;
+  margin-left: 800px;
+}
+.footer {
+  background-color: white;
+  height: 20rem;
+  margin-top: -100px;
+}
+.fr {
+  background-color: black;
+  height: 30rem;
+}
+.heading {
+  margin-top: 150px;
+  margin-left: 150px;
+  color: #ffe7aa;
+  font-size: 50px;
+}
+.heading2{
+    margin-top: -500px;
     margin-left: 800px;
 }
-.gyth{
-    background-color: white;
-    height: 20rem;
-margin-top: -100px;
+.paragraph {
+  margin-left: 150px;
+  font-size: 20px;
+  color: white;
+  margin-top: 20px;
 }
-.fr{
-    background-color: black;
-    height: 30rem;
+.image1 {
+  width: 600px;
+  margin-left: 100px;
+}
+.heading {
+    margin-left: 141px;
+    margin-top: 84px;
+    color: white;
+}
+
+.paragraph2 {
+  margin-left: 800px;
+  margin-top: 50px;
+  color: white;
+}
+.h2 {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.h1 {
+  margin-top: 60px;
+  margin-left: 100px;
+  font-size: 35px;
+}
+.heading3 {
+  margin-top: -120px;
+  margin-left: 750px;
+  font-size: 35px;
 }
